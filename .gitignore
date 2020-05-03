@@ -1,1 +1,9 @@
-.*project/
+.*project
+Debug/
+.vscode/
+.settings/
+.launches/
+targetConfigs/
+msp432p401r.cmd
+startup_*
+system_*
